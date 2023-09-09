@@ -1,0 +1,5 @@
+package com.saviomidia.initProj.dto.copy;
+
+public class GameMinDTO {
+
+}

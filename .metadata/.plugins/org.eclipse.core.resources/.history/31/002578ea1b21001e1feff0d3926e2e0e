@@ -1,0 +1,5 @@
+package com.saviomidia.initProj.config;
+
+public class WebConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.saviomidia.initProj.dto;
+
+public class GameListDTO {
+
+}
